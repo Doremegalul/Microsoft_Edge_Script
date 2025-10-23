@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-# Move the mouse to the destinated area within 5 seconds to get its coordinates
+# Move the mouse to the search bar within 5 seconds to get its coordinates
 print("Move your mouse over the destinated area within 5 seconds...")
 time.sleep(5)
 
