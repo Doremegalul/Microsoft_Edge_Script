@@ -1,9 +1,5 @@
-# Microsoft Edge Script
+# Browser Automation Tool
 
-I made this script because I got tired of manually searching 30 times in Microsoft Edge just to earn 150 points from Microsoft Rewards.
-
-auto_search.py:
-This is the main file that you run through CMD in your environment to start the script. It uses a set of coordinates (obtained using mouse_coordinates.py) and automates your mouse to click and enter 30-character sentences from the text file.
-
-mouse_coordinates.py:
-This file allows you to get and adjust the coordinates used in the main file.
+- Developed a Python-based browser automation tool using input simulation and coordinate tracking to automate repetitive web interactions.
+- Designed a configurable workflow engine to orchestrate multi-step browser tasks with explicit timing control and execution state tracking.
+- Reduced manual interaction time from minutes to seconds, demonstrating applied automation and scripting for productivity workflows.
